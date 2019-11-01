@@ -1,0 +1,38 @@
+[
+  {
+    "industry": {
+      "name": "Energy Infrastructure",
+      "type": "Financial Services"
+    },
+    "issuance": "Equity",
+    "target": "$23M",
+    "pre-moneyValuation": "$1M",
+    "amountRaised": "$1M",
+    "location": "Europe",
+    "status": "In Progress"
+  },
+  {
+    "industry": {
+      "name": "ABC",
+      "type": "Financial Services"
+    },
+    "issuance": "Invstment Fund",
+    "target": "$23M",
+    "pre-moneyValuation": "$1M",
+    "amountRaised": "$1M",
+    "location": "U.S",
+    "status": "In Progress"
+  },
+  {
+    "industry": {
+      "name": "Alternative Gas Extraction",
+      "type": "Space"
+    },
+    "issuance": "Debt",
+    "target": "$23M",
+    "pre-moneyValuation": "$1M",
+    "amountRaised": "$1M",
+    "location": "U.S",
+    "status": "closed"
+  }
+]

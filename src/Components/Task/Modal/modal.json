@@ -1,0 +1,18 @@
+{
+  "industryName": "",
+  "industryType": "",
+  "issuanceType": "",
+  "targetRaised": "",
+  "preMoneyValuation": "",
+  "amountRaised": "",
+  "location": "",
+  "status": "",
+  "industryNameErr": false,
+  "industryTypeErr": false,
+  "issuanceTypeErr": false,
+  "targetRaisedErr": false,
+  "preMoneyValuationErr": false,
+  "amountRaisedErr": false,
+  "locationErr": false,
+  "statusErr": false
+}
