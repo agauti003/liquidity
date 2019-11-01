@@ -12,7 +12,7 @@
     "build": "rimraf ./dist/* && webpack --mode production --config webpack.config.prod.js",
     "lint": "esw webpack.config.* src --color",
     "lint:watch": "npm run lint -- --watch",
-    "start": "nodemon server.js",
+    "start": "node server.js",
     "start:dev": "npm-run-all --parallel server build:watch lint:watch",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
